@@ -16,7 +16,7 @@
     "sucrase": "^3.12.1"
   },
   "dependencies": {        
-    "express": "^4.17.1",    
+    "express": "^4.17.3",    
     "yup": "^0.28.1"
   },
   "scripts": {
